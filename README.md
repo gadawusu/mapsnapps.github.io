@@ -1,7 +1,7 @@
-mapsnapps.github.io
+mapsnapps lab
 ===================
 
-A block of spatial ideas
+An evolving block of spatial ideas.
 
 
 This page contains some of the examples which we've been working on. Feel free to contact us if you need more information.
